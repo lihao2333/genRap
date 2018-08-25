@@ -1,0 +1,5 @@
+output/*
+voice/*
+accompany/*
+!accompany/v3.2.mp3
+*.swp
