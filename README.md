@@ -6,7 +6,7 @@ linux下只需要ffmpeg, 一般是默认安装的.
 windows下要下载一个ffmpeg
 ## 使用方法
 #### 准备歌词
-在`lyric/lylric.py`中编辑你的歌词, 格式为
+在`lyric/lylrics.py`中编辑你的歌词, 格式为
 ```
 {
     "lyricId":"lyric"
